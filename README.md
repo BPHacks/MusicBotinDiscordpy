@@ -13,8 +13,9 @@ Make sure you have [Python](https://python.org) installed on your computer befor
 ## Step 1: Installing Dependencies
 
 You have to install the pypi packages given below:
-**1.[Discord.py](https://pypi.org/project/discord.py/)**
-Type this in command prompt: `pip install discord.py
+* [Discord.py](https://pypi.org/project/discord.py/)
+    * Type this in command prompt: `pip install discord.py`
+    * Download the voice support too: `pip install discord.py[voice]`
 
 
 
