@@ -15,14 +15,14 @@ Make sure you have [Python](https://python.org) installed on your computer befor
 
 1.You have to install the pypi packages given below:
 * [Discord.py](https://pypi.org/project/discord.py/)
-    * `$ pip install discord.py`
-    * `$ pip install discord.py[voice]`
+    • `$ pip install discord.py`
+    • `$ pip install discord.py[voice]`
 * [Youtube-dl](https://pypi.org/project/youtube_dl/)
-    * `$ pip install youtube_dl`
+    • `$ pip install youtube_dl`
     
-   
+
 2. Install FFMPEG
-   * [Download link](https://www.gyan.dev/ffmpeg/builds/ffmpeg-release-essentials.zip)
+   • [Download link](https://www.gyan.dev/ffmpeg/builds/ffmpeg-release-essentials.zip)
    
 
 
