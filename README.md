@@ -19,7 +19,10 @@ Make sure you have [Python](https://python.org) installed on your computer befor
     * `$ pip install discord.py[voice]`
 * [Youtube-dl](https://pypi.org/project/youtube_dl/)
     * `$ pip install youtube_dl`
+    
    
+2. Install FFMPEG
+   * [Download link](https://www.gyan.dev/ffmpeg/builds/ffmpeg-release-essentials.zip)
    
 
 
