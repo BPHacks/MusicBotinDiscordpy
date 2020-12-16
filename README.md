@@ -26,7 +26,7 @@ Make sure you have [Python](https://python.org) installed on your computer befor
     * Extract the zip file
 
 * Install FFMPEG
-   * [Download link](https://www.gyan.dev/ffmpeg/builds/ffmpeg-release-essentials.zip)
+   * Download *ffmpeg* from [here](https://www.gyan.dev/ffmpeg/builds/ffmpeg-release-essentials.zip)
    * Extract the zip file 
    
 
