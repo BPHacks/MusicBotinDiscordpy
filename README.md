@@ -21,9 +21,13 @@ Make sure you have [Python](https://python.org) installed on your computer befor
     * [Youtube-dl](https://pypi.org/project/youtube_dl/)
         * `$ pip install youtube_dl`
     
+* Download Code
+    * Download [the code](https://github.com/MrArkon/MusicBotinDiscordpy) for Music Bot
+    * Extract the zip file
 
 * Install FFMPEG
-   • [Download link](https://www.gyan.dev/ffmpeg/builds/ffmpeg-release-essentials.zip)
+   * [Download link](https://www.gyan.dev/ffmpeg/builds/ffmpeg-release-essentials.zip)
+   * Extract the zip file 
    
 
 
