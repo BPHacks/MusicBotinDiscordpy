@@ -23,11 +23,11 @@ Make sure you have [Python](https://python.org) installed on your computer befor
     
 * Download Code
     * Download [the code](https://github.com/MrArkon/MusicBotinDiscordpy) for Music Bot
-    * Extract the zip file
+    * **Extract** the zip file
 
 * Install FFMPEG
-   * Download *ffmpeg* from [here](https://www.gyan.dev/ffmpeg/builds/ffmpeg-release-essentials.zip)
-   * Extract the zip file 
+   * Download **ffmpeg** from [here](https://www.gyan.dev/ffmpeg/builds/ffmpeg-release-essentials.zip)
+   * **Extract** the zip file 
    
 
 
